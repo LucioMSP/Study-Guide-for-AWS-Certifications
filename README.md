@@ -1,4 +1,4 @@
-<img src="./content/socialcard.png"  width="1173"/>
+<img src="./content/media/socialcard.png"  width="1173"/>
 
 # Study Guide to Prepare the AWS Certifications
 
@@ -13,7 +13,7 @@ This guide covers the following certifications:
 
 You will find **[guides and test exams here](content/readme.md).**
 
-<img src="./content/certifications.png"  width="1173"/>
+<img src="./content/media/certifications.png"  width="1173"/>
 
 ---
 
